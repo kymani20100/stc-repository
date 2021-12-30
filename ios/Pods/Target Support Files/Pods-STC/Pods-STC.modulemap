@@ -1,0 +1,6 @@
+module Pods_STC {
+  umbrella header "Pods-STC-umbrella.h"
+
+  export *
+  module * { export * }
+}
